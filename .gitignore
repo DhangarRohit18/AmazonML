@@ -1,8 +1,0 @@
-__pycache__/
-*.py[cod]
-*$py.class
-.DS_Store
-__MACOSX/
-
-# Exclude generated dataframe cache pickles (>2GB exceeds GitHub hard limit)
-project/output/*_norm.pkl
