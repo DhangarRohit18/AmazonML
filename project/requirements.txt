@@ -1,0 +1,11 @@
+# Amazon ML Challenge 2026 - Business Entity Resolution
+# Python 3.10+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+rapidfuzz>=3.0
+scipy>=1.11
+tqdm>=4.65
+pyarrow>=14.0
+joblib>=1.3

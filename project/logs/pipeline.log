@@ -1,0 +1,529 @@
+2026-09-25 13:44:07,313 [INFO] ============================================================
+2026-09-25 13:44:07,314 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 13:44:07,314 [INFO] ============================================================
+2026-09-25 13:44:07,314 [INFO] Loading train data...
+2026-09-25 13:45:18,219 [INFO]   S1: 2,206,821, S2: 5,034,616, S3: 5,285,603
+2026-09-25 13:45:18,219 [INFO]   Normalizing 2,206,821 rows...
+2026-09-25 13:47:05,472 [INFO]   Normalizing 5,034,616 rows...
+2026-09-25 13:52:22,989 [INFO]   Normalizing 5,285,603 rows...
+2026-09-25 13:57:14,170 [INFO]   Combined S2+S3: 10,320,219 entities
+2026-09-25 14:09:31,573 [INFO] ============================================================
+2026-09-25 14:09:31,573 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 14:09:31,574 [INFO] ============================================================
+2026-09-25 14:09:31,574 [INFO] Loading train data...
+2026-09-25 14:10:52,765 [INFO]   S1: 2,206,821, S2: 5,034,616, S3: 5,285,603
+2026-09-25 14:10:52,766 [INFO]   Normalizing 2,206,821 rows...
+2026-09-25 14:13:14,596 [INFO]   Normalizing 5,034,616 rows...
+2026-09-25 14:18:27,226 [INFO]   Normalizing 5,285,603 rows...
+2026-09-25 14:25:16,496 [INFO]   Combined S2+S3: 10,320,219 entities
+2026-09-25 14:25:16,498 [INFO]   Loading ground truth from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\student_resource\dataset\train\train_ground_truth.tsv...
+2026-09-25 14:26:40,522 [INFO]   Ground truth: 2,206,821 S1 entities
+2026-09-25 14:26:40,522 [INFO] 
+============================================================
+2026-09-25 14:26:40,522 [INFO] PHASE 2: Creating Validation Split
+2026-09-25 14:26:40,523 [INFO] ============================================================
+2026-09-25 14:27:11,042 [INFO]   Train S1 entities: 50,000
+2026-09-25 14:27:11,043 [INFO]   Val S1 entities: 10,000
+2026-09-25 14:27:11,667 [INFO] 
+============================================================
+2026-09-25 14:27:11,668 [INFO] PHASE 3: Blocking / Candidate Generation (Training)
+2026-09-25 14:27:11,668 [INFO] ============================================================
+2026-09-25 14:27:24,069 [INFO]   Country=India: S1=20,318, S23=4,133,346
+2026-09-25 14:27:46,284 [INFO]   Building index for 4,133,346 entities...
+2026-09-25 14:41:20,088 [INFO] ============================================================
+2026-09-25 14:41:20,089 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 14:41:20,089 [INFO] ============================================================
+2026-09-25 14:41:20,090 [INFO] Loading train data...
+2026-09-25 14:42:47,096 [INFO]   S1: 2,206,821, S2: 5,034,616, S3: 5,285,603
+2026-09-25 14:42:47,097 [INFO]   Normalizing 2,206,821 rows...
+2026-09-25 14:46:45,864 [INFO]   Normalizing 5,034,616 rows...
+2026-09-25 14:54:39,287 [INFO]   Normalizing 5,285,603 rows...
+2026-09-25 15:02:35,207 [INFO]   Combined S2+S3: 10,320,219 entities
+2026-09-25 15:02:35,209 [INFO]   Loading ground truth from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\student_resource\dataset\train\train_ground_truth.tsv...
+2026-09-25 15:03:34,801 [INFO]   Ground truth: 2,206,821 S1 entities
+2026-09-25 15:03:34,802 [INFO] 
+============================================================
+2026-09-25 15:03:34,802 [INFO] PHASE 2: Creating Validation Split
+2026-09-25 15:03:34,802 [INFO] ============================================================
+2026-09-25 15:03:56,887 [INFO]   Train S1 entities: 50,000
+2026-09-25 15:03:56,888 [INFO]   Val S1 entities: 10,000
+2026-09-25 15:03:57,348 [INFO] 
+============================================================
+2026-09-25 15:03:57,349 [INFO] PHASE 3: Blocking / Candidate Generation (Training)
+2026-09-25 15:03:57,349 [INFO] ============================================================
+2026-09-25 15:04:05,894 [INFO]   Country=India: S1=20,318, S23=4,133,346
+2026-09-25 15:04:22,499 [INFO]   Building index for 4,133,346 entities...
+2026-09-25 15:22:04,859 [INFO]   Index built: 1,928,600 unique tokens
+2026-09-25 15:33:15,055 [INFO] ============================================================
+2026-09-25 15:33:15,059 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 15:33:15,059 [INFO] ============================================================
+2026-09-25 15:33:15,060 [INFO] Loading train data...
+2026-09-25 15:34:25,831 [INFO]   S1: 2,206,821, S2: 5,034,616, S3: 5,285,603
+2026-09-25 15:34:25,832 [INFO]   Normalizing 2,206,821 rows...
+2026-09-25 15:37:40,571 [INFO]   Normalizing 5,034,616 rows...
+2026-09-25 15:45:27,907 [INFO]   Normalizing 5,285,603 rows...
+2026-09-25 15:53:42,179 [INFO]   Combined S2+S3: 10,320,219 entities
+2026-09-25 15:53:42,181 [INFO]   Loading ground truth from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\student_resource\dataset\train\train_ground_truth.tsv...
+2026-09-25 15:54:43,579 [INFO]   Ground truth: 2,206,821 S1 entities
+2026-09-25 15:54:43,579 [INFO] 
+============================================================
+2026-09-25 15:54:43,580 [INFO] PHASE 2: Creating Validation Split
+2026-09-25 15:54:43,580 [INFO] ============================================================
+2026-09-25 15:55:06,707 [INFO]   Train S1 entities: 50,000
+2026-09-25 15:55:06,708 [INFO]   Val S1 entities: 10,000
+2026-09-25 15:55:07,184 [INFO] 
+============================================================
+2026-09-25 15:55:07,184 [INFO] PHASE 3: Blocking / Candidate Generation (Training)
+2026-09-25 15:55:07,185 [INFO] ============================================================
+2026-09-25 15:55:14,897 [INFO]   Country=India: S1=20,318, S23=4,133,346
+2026-09-25 15:55:18,309 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-25 16:14:12,360 [INFO]   Transforming 20,318 S1 queries...
+2026-09-25 16:16:41,535 [INFO]   Querying in 41 batches...
+2026-09-25 16:32:39,673 [INFO] ============================================================
+2026-09-25 16:32:39,674 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 16:32:39,675 [INFO] ============================================================
+2026-09-25 16:32:39,675 [INFO] Loading train data...
+2026-09-25 16:33:46,622 [INFO]   S1: 2,206,821, S2: 5,034,616, S3: 5,285,603
+2026-09-25 16:33:46,623 [INFO]   Normalizing 2,206,821 rows...
+2026-09-25 16:36:04,242 [INFO]   Normalizing 5,034,616 rows...
+2026-09-25 16:41:26,711 [INFO]   Normalizing 5,285,603 rows...
+2026-09-25 16:47:13,525 [INFO]   Combined S2+S3: 10,320,219 entities
+2026-09-25 16:47:13,527 [INFO]   Loading ground truth from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\student_resource\dataset\train\train_ground_truth.tsv...
+2026-09-25 16:47:48,575 [INFO]   Ground truth: 2,206,821 S1 entities
+2026-09-25 16:47:48,575 [INFO] 
+============================================================
+2026-09-25 16:47:48,575 [INFO] PHASE 2: Creating Validation Split
+2026-09-25 16:47:48,575 [INFO] ============================================================
+2026-09-25 16:48:00,185 [INFO]   Train S1 entities: 50,000
+2026-09-25 16:48:00,186 [INFO]   Val S1 entities: 10,000
+2026-09-25 16:48:00,437 [INFO] 
+============================================================
+2026-09-25 16:48:00,439 [INFO] PHASE 3: Blocking / Candidate Generation (Training)
+2026-09-25 16:48:00,439 [INFO] ============================================================
+2026-09-25 16:48:06,135 [INFO]   Country=India: S1=20,318, S23=4,133,346
+2026-09-25 16:48:09,561 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-25 17:05:29,391 [INFO]   Transforming 20,318 S1 queries...
+2026-09-25 17:07:50,271 [INFO]   Querying in 2032 batches...
+2026-09-25 17:18:20,905 [INFO] ============================================================
+2026-09-25 17:18:20,906 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 17:18:20,906 [INFO] ============================================================
+2026-09-25 17:18:20,906 [INFO] Loading train data...
+2026-09-25 17:19:55,428 [INFO]   S1: 2,206,821, S2: 5,034,616, S3: 5,285,603
+2026-09-25 17:19:55,429 [INFO]   Normalizing 2,206,821 rows...
+2026-09-25 17:33:47,541 [INFO] ============================================================
+2026-09-25 17:33:47,543 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 17:33:47,543 [INFO] ============================================================
+2026-09-25 17:33:47,544 [INFO] Loading train data...
+2026-09-25 17:35:21,278 [INFO]   S1: 2,206,821, S2: 5,034,616, S3: 5,285,603
+2026-09-25 17:35:21,279 [INFO]   Normalizing 2,206,821 rows...
+2026-09-25 17:38:59,729 [INFO]   Normalizing 5,034,616 rows...
+2026-09-25 17:47:48,295 [INFO]   Normalizing 5,285,603 rows...
+2026-09-25 17:55:03,911 [INFO]   Combined S2+S3: 10,320,219 entities
+2026-09-25 17:55:16,736 [INFO]   Loading ground truth from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\student_resource\dataset\train\train_ground_truth.tsv...
+2026-09-25 17:56:03,281 [INFO]   Ground truth: 2,206,821 S1 entities
+2026-09-25 17:56:03,282 [INFO] 
+============================================================
+2026-09-25 17:56:03,282 [INFO] PHASE 2: Creating Validation Split
+2026-09-25 17:56:03,282 [INFO] ============================================================
+2026-09-25 17:56:18,196 [INFO]   Train S1 entities: 50,000
+2026-09-25 17:56:18,196 [INFO]   Val S1 entities: 10,000
+2026-09-25 17:56:18,472 [INFO] 
+============================================================
+2026-09-25 17:56:18,472 [INFO] PHASE 3: Blocking / Candidate Generation (Training)
+2026-09-25 17:56:18,472 [INFO] ============================================================
+2026-09-25 17:56:27,480 [INFO]   Country=India: S1=20,318, S23=4,133,346
+2026-09-25 17:56:31,910 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-25 18:03:04,895 [INFO]   Transforming 20,318 S1 queries...
+2026-09-25 18:04:09,020 [INFO]   Querying in 21 batches...
+2026-09-25 18:35:10,272 [INFO]   Country=US: S1=29,682, S23=6,186,873
+2026-09-25 18:35:15,539 [INFO]   Training TF-IDF for 6,186,873 entities...
+2026-09-25 18:42:48,689 [INFO]   Transforming 29,682 S1 queries...
+2026-09-25 18:44:20,887 [INFO]   Querying in 30 batches...
+2026-09-25 19:16:02,146 [INFO]   Total S1 entities with candidates: 50,000
+2026-09-25 19:16:02,159 [INFO]   Total candidate pairs: 1,836,258 (avg 36.7 per S1)
+2026-09-25 19:16:03,284 [INFO]   [TRAIN] Candidate Recall: 0.904260 (156484/173052)
+2026-09-25 19:16:03,285 [INFO]   [TRAIN] Entity-level Perfect Recall: 0.7672 (38362/50000)
+2026-09-25 19:16:03,285 [INFO] 
+============================================================
+2026-09-25 19:16:03,286 [INFO] PHASE 3b: Blocking / Candidate Generation (Validation)
+2026-09-25 19:16:03,286 [INFO] ============================================================
+2026-09-25 19:16:28,861 [INFO]   Country=India: S1=3,973, S23=4,133,346
+2026-09-25 19:16:32,367 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-25 19:21:59,514 [INFO]   Transforming 3,973 S1 queries...
+2026-09-25 19:22:48,337 [INFO]   Querying in 4 batches...
+2026-09-25 19:29:19,207 [INFO]   Country=US: S1=6,027, S23=6,186,873
+2026-09-25 19:29:24,441 [INFO]   Training TF-IDF for 6,186,873 entities...
+2026-09-25 19:35:43,975 [INFO]   Transforming 6,027 S1 queries...
+2026-09-25 19:36:56,492 [INFO]   Querying in 7 batches...
+2026-09-25 19:43:13,175 [INFO]   Total S1 entities with candidates: 10,000
+2026-09-25 19:43:13,181 [INFO]   Total candidate pairs: 371,045 (avg 37.1 per S1)
+2026-09-25 19:43:13,807 [INFO]   [VAL] Candidate Recall: 0.901380 (31158/34567)
+2026-09-25 19:43:13,807 [INFO]   [VAL] Entity-level Perfect Recall: 0.7640 (7640/10000)
+2026-09-25 19:43:13,807 [INFO] 
+============================================================
+2026-09-25 19:43:13,808 [INFO] PHASE 4: Feature Engineering (Training)
+2026-09-25 19:43:13,808 [INFO] ============================================================
+2026-09-25 19:47:50,509 [INFO]   Computing features for 1,836,258 pairs...
+2026-09-25 19:52:53,642 [INFO] 
+PHASE 4b: Feature Engineering (Validation)
+2026-09-25 19:57:10,063 [INFO]   Computing features for 371,045 pairs...
+2026-09-25 19:58:13,774 [INFO] 
+============================================================
+2026-09-25 19:58:13,774 [INFO] PHASE 5: Labeling
+2026-09-25 19:58:13,774 [INFO] ============================================================
+2026-09-25 19:58:14,899 [INFO]   Labels: 156,484 positive, 1,679,774 negative (8.5% positive)
+2026-09-25 19:58:15,080 [INFO]   Labels: 31,158 positive, 339,887 negative (8.4% positive)
+2026-09-25 19:58:16,648 [INFO] 
+============================================================
+2026-09-25 19:58:16,648 [INFO] PHASE 6: Model Training
+2026-09-25 19:58:16,649 [INFO] ============================================================
+2026-09-25 19:58:19,584 [INFO]   Training XGBoost: 1,836,258 samples, 34 features
+2026-09-25 19:58:19,584 [INFO]   scale_pos_weight=10.00
+2026-09-25 19:59:13,190 [INFO]   Top 10 features:
+2026-09-25 19:59:13,190 [INFO]     any_addr_miss: 0.3359
+2026-09-25 19:59:13,190 [INFO]     addr_tok_set: 0.3284
+2026-09-25 19:59:13,191 [INFO]     addr2_miss: 0.1551
+2026-09-25 19:59:13,191 [INFO]     addr_ngram3: 0.0441
+2026-09-25 19:59:13,191 [INFO]     addr_num_jaccard: 0.0236
+2026-09-25 19:59:13,191 [INFO]     blocking_score: 0.0202
+2026-09-25 19:59:13,191 [INFO]     addr_num_overlap: 0.0139
+2026-09-25 19:59:13,191 [INFO]     name_jw: 0.0139
+2026-09-25 19:59:13,191 [INFO]     addr_len_ratio: 0.0055
+2026-09-25 19:59:13,191 [INFO]     name_partial: 0.0053
+2026-09-25 19:59:13,191 [INFO] 
+============================================================
+2026-09-25 19:59:13,192 [INFO] PHASE 7: Threshold Optimization
+2026-09-25 19:59:13,192 [INFO] ============================================================
+2026-09-25 19:59:30,614 [INFO] 
+  === THRESHOLD OPTIMIZATION ===
+2026-09-25 19:59:30,614 [INFO]   Best threshold: 0.92
+2026-09-25 19:59:30,614 [INFO]   Best macro F0.5: 0.898856
+2026-09-25 19:59:30,614 [INFO]   Top thresholds:
+2026-09-25 19:59:30,614 [INFO]     t=0.92: F0.5=0.898856 P=0.9681 R=0.8120 TP=28069 FP=926 FN=6498 Sing=0.8959
+2026-09-25 19:59:30,614 [INFO]     t=0.94: F0.5=0.898297 P=0.9752 R=0.7995 TP=27636 FP=702 FN=6931 Sing=0.9282
+2026-09-25 19:59:30,614 [INFO]     t=0.90: F0.5=0.897885 P=0.9603 R=0.8220 TP=28415 FP=1175 FN=6152 Sing=0.8671
+2026-09-25 19:59:30,615 [INFO]     t=0.88: F0.5=0.896540 P=0.9535 R=0.8296 TP=28677 FP=1400 FN=5890 Sing=0.8474
+2026-09-25 19:59:30,615 [INFO]     t=0.86: F0.5=0.893952 P=0.9458 R=0.8363 TP=28910 FP=1656 FN=5657 Sing=0.8223
+2026-09-25 19:59:30,683 [INFO] 
+  Model saved to C:\Users\user\OneDrive\Desktop\Competition\AmzonML\project\models\xgb_model.pkl
+2026-09-25 19:59:30,683 [INFO] 
+  Training completed in 145.7 minutes
+2026-09-25 19:59:30,683 [INFO]   BEST VALIDATION F0.5: 0.898856
+2026-09-25 19:59:30,684 [INFO]   BEST THRESHOLD: 0.92
+2026-09-25 19:59:30,684 [INFO]   TARGET BENCHMARK: 0.980473
+2026-09-25 19:59:30,684 [INFO]   GAP: +0.081617
+2026-09-25 20:00:37,384 [INFO] ============================================================
+2026-09-25 20:00:37,384 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 20:00:37,384 [INFO] ============================================================
+2026-09-25 20:00:37,386 [INFO] Loading cached train normalized data...
+2026-09-25 20:00:41,740 [INFO]   Loading ground truth from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\student_resource\dataset\train\train_ground_truth.tsv...
+2026-09-25 20:01:15,212 [INFO]   Ground truth: 2,206,821 S1 entities
+2026-09-25 20:01:15,212 [INFO] 
+============================================================
+2026-09-25 20:01:15,212 [INFO] PHASE 2: Creating Validation Split
+2026-09-25 20:01:15,212 [INFO] ============================================================
+2026-09-25 20:01:26,139 [INFO]   Train S1 entities: 200,000
+2026-09-25 20:01:26,140 [INFO]   Val S1 entities: 30,000
+2026-09-25 20:01:26,359 [INFO] 
+============================================================
+2026-09-25 20:01:26,359 [INFO] PHASE 3: Blocking / Candidate Generation (Training)
+2026-09-25 20:01:26,359 [INFO] ============================================================
+2026-09-25 20:01:32,155 [INFO]   Country=India: S1=80,297, S23=4,133,346
+2026-09-25 20:01:35,626 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-25 20:07:23,489 [INFO]   Transforming 80,297 S1 queries...
+2026-09-25 20:08:12,743 [INFO]   Querying in 81 batches...
+2026-09-25 21:34:52,217 [INFO] ============================================================
+2026-09-25 21:34:52,217 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-25 21:34:52,218 [INFO] ============================================================
+2026-09-25 21:34:52,218 [INFO] Loading cached train normalized data...
+2026-09-25 21:34:58,533 [INFO]   Loading ground truth from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\student_resource\dataset\train\train_ground_truth.tsv...
+2026-09-25 21:35:33,778 [INFO]   Ground truth: 2,206,821 S1 entities
+2026-09-25 21:35:33,779 [INFO] 
+============================================================
+2026-09-25 21:35:33,779 [INFO] PHASE 2: Creating Validation Split
+2026-09-25 21:35:33,779 [INFO] ============================================================
+2026-09-25 21:35:45,184 [INFO]   Train S1 entities: 50,000
+2026-09-25 21:35:45,184 [INFO]   Val S1 entities: 10,000
+2026-09-25 21:35:45,408 [INFO] 
+============================================================
+2026-09-25 21:35:45,409 [INFO] PHASE 3: Blocking / Candidate Generation (Training)
+2026-09-25 21:35:45,409 [INFO] ============================================================
+2026-09-25 21:35:50,544 [INFO]   Country=India: S1=20,318, S23=4,133,346
+2026-09-25 21:35:54,777 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-25 21:42:43,612 [INFO]   Transforming 20,318 S1 queries...
+2026-09-25 21:43:59,039 [INFO]   Querying in 21 batches...
+2026-09-25 22:43:58,115 [INFO]   Country=US: S1=29,682, S23=6,186,873
+2026-09-25 22:44:04,320 [INFO]   Training TF-IDF for 6,186,873 entities...
+2026-09-25 22:53:44,513 [INFO]   Transforming 29,682 S1 queries...
+2026-09-25 22:55:25,325 [INFO]   Querying in 30 batches...
+2026-09-25 23:32:55,748 [INFO]   Total S1 entities with candidates: 50,000
+2026-09-25 23:32:55,761 [INFO]   Total candidate pairs: 5,125,721 (avg 102.5 per S1)
+2026-09-25 23:32:58,303 [INFO]   [TRAIN] Candidate Recall: 0.923173 (159757/173052)
+2026-09-25 23:32:58,303 [INFO]   [TRAIN] Entity-level Perfect Recall: 0.7999 (39994/50000)
+2026-09-25 23:32:58,303 [INFO] 
+============================================================
+2026-09-25 23:32:58,303 [INFO] PHASE 3b: Blocking / Candidate Generation (Validation)
+2026-09-25 23:32:58,303 [INFO] ============================================================
+2026-09-25 23:33:26,085 [INFO]   Country=India: S1=3,973, S23=4,133,346
+2026-09-25 23:33:29,774 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-25 23:40:32,040 [INFO]   Transforming 3,973 S1 queries...
+2026-09-25 23:41:27,906 [INFO]   Querying in 4 batches...
+2026-09-25 23:50:01,467 [INFO]   Country=US: S1=6,027, S23=6,186,873
+2026-09-25 23:50:06,052 [INFO]   Training TF-IDF for 6,186,873 entities...
+2026-09-25 23:57:34,298 [INFO]   Transforming 6,027 S1 queries...
+2026-09-25 23:58:50,513 [INFO]   Querying in 7 batches...
+2026-09-26 00:07:31,868 [INFO]   Total S1 entities with candidates: 10,000
+2026-09-26 00:07:31,876 [INFO]   Total candidate pairs: 1,026,895 (avg 102.7 per S1)
+2026-09-26 00:07:32,784 [INFO]   [VAL] Candidate Recall: 0.920734 (31827/34567)
+2026-09-26 00:07:32,784 [INFO]   [VAL] Entity-level Perfect Recall: 0.7967 (7967/10000)
+2026-09-26 00:07:32,784 [INFO] 
+============================================================
+2026-09-26 00:07:32,784 [INFO] PHASE 4: Feature Engineering (Training)
+2026-09-26 00:07:32,784 [INFO] ============================================================
+2026-09-26 00:12:16,254 [INFO]   Computing features for 5,125,721 pairs...
+2026-09-26 00:27:43,816 [INFO] 
+PHASE 4b: Feature Engineering (Validation)
+2026-09-26 00:32:43,399 [INFO]   Computing features for 1,026,895 pairs...
+2026-09-26 00:35:37,429 [INFO] 
+============================================================
+2026-09-26 00:35:37,430 [INFO] PHASE 5: Labeling
+2026-09-26 00:35:37,430 [INFO] ============================================================
+2026-09-26 00:35:43,725 [INFO]   Labels: 159,757 positive, 4,965,964 negative (3.1% positive)
+2026-09-26 00:35:44,390 [INFO]   Labels: 31,827 positive, 995,068 negative (3.1% positive)
+2026-09-26 00:35:48,173 [INFO] 
+============================================================
+2026-09-26 00:35:48,173 [INFO] PHASE 6: Model Training
+2026-09-26 00:35:48,173 [INFO] ============================================================
+2026-09-26 00:35:49,489 [INFO]   Training XGBoost: 5,125,721 samples, 34 features
+2026-09-26 00:35:49,489 [INFO]   scale_pos_weight=10.00
+2026-09-26 00:38:05,386 [INFO]   Top 10 features:
+2026-09-26 00:38:05,386 [INFO]     addr_tok_set: 0.2590
+2026-09-26 00:38:05,386 [INFO]     any_addr_miss: 0.2469
+2026-09-26 00:38:05,386 [INFO]     addr_tok_sort: 0.2092
+2026-09-26 00:38:05,387 [INFO]     addr2_miss: 0.0765
+2026-09-26 00:38:05,387 [INFO]     blocking_score: 0.0289
+2026-09-26 00:38:05,387 [INFO]     addr_num_jaccard: 0.0243
+2026-09-26 00:38:05,387 [INFO]     addr_ngram3: 0.0221
+2026-09-26 00:38:05,387 [INFO]     addr_num_overlap: 0.0218
+2026-09-26 00:38:05,387 [INFO]     name_jw: 0.0157
+2026-09-26 00:38:05,387 [INFO]     both_strong: 0.0150
+2026-09-26 00:38:05,388 [INFO] 
+============================================================
+2026-09-26 00:38:05,388 [INFO] PHASE 7: Threshold Optimization
+2026-09-26 00:38:05,388 [INFO] ============================================================
+2026-09-26 00:38:40,352 [INFO] 
+  === THRESHOLD OPTIMIZATION ===
+2026-09-26 00:38:40,352 [INFO]   Best threshold: 0.92
+2026-09-26 00:38:40,352 [INFO]   Best macro F0.5: 0.905435
+2026-09-26 00:38:40,352 [INFO]   Top thresholds:
+2026-09-26 00:38:40,352 [INFO]     t=0.92: F0.5=0.905435 P=0.9671 R=0.8219 TP=28409 FP=966 FN=6158 Sing=0.8995
+2026-09-26 00:38:40,352 [INFO]     t=0.90: F0.5=0.904428 P=0.9586 R=0.8338 TP=28822 FP=1244 FN=5745 Sing=0.8654
+2026-09-26 00:38:40,353 [INFO]     t=0.94: F0.5=0.903893 P=0.9732 R=0.8094 TP=27978 FP=771 FN=6589 Sing=0.9156
+2026-09-26 00:38:40,353 [INFO]     t=0.88: F0.5=0.901181 P=0.9495 R=0.8422 TP=29114 FP=1550 FN=5453 Sing=0.8294
+2026-09-26 00:38:40,353 [INFO]     t=0.86: F0.5=0.898794 P=0.9425 R=0.8482 TP=29319 FP=1790 FN=5248 Sing=0.8025
+2026-09-26 00:38:40,399 [INFO] 
+  Model saved to C:\Users\user\OneDrive\Desktop\Competition\AmzonML\project\models\xgb_model.pkl
+2026-09-26 00:38:40,399 [INFO] 
+  Training completed in 183.8 minutes
+2026-09-26 00:38:40,399 [INFO]   BEST VALIDATION F0.5: 0.905435
+2026-09-26 00:38:40,400 [INFO]   BEST THRESHOLD: 0.92
+2026-09-26 00:38:40,400 [INFO]   TARGET BENCHMARK: 0.980473
+2026-09-26 00:38:40,400 [INFO]   GAP: +0.075038
+2026-09-26 01:29:26,928 [INFO] ============================================================
+2026-09-26 01:29:26,928 [INFO] AMAZON ML CHALLENGE 2026 — ENTITY RESOLUTION PIPELINE
+2026-09-26 01:29:26,928 [INFO] ============================================================
+2026-09-26 01:29:26,928 [INFO] Target benchmark: F0.5 = 0.980473
+2026-09-26 01:29:26,928 [INFO] Config: TRAIN_SAMPLE=150000, VAL_SAMPLE=30000, TOP_K=75
+2026-09-26 01:29:26,928 [INFO] ============================================================
+2026-09-26 01:29:26,929 [INFO] PHASE 1: Loading & Normalizing Training Data
+2026-09-26 01:29:26,929 [INFO] ============================================================
+2026-09-26 01:29:26,930 [INFO] Loading cached train normalized data...
+2026-09-26 01:29:31,728 [INFO]   Loading ground truth from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\student_resource\dataset\train\train_ground_truth.tsv...
+2026-09-26 01:30:05,051 [INFO]   Ground truth: 2,206,821 S1 entities
+2026-09-26 01:30:05,051 [INFO] 
+============================================================
+2026-09-26 01:30:05,052 [INFO] PHASE 2: Creating Validation Split
+2026-09-26 01:30:05,052 [INFO] ============================================================
+2026-09-26 01:30:15,688 [INFO]   Train S1 entities: 150,000
+2026-09-26 01:30:15,689 [INFO]   Val S1 entities: 30,000
+2026-09-26 01:30:15,940 [INFO] 
+============================================================
+2026-09-26 01:30:15,940 [INFO] PHASE 3: Blocking / Candidate Generation (Training)
+2026-09-26 01:30:15,940 [INFO] ============================================================
+2026-09-26 01:30:21,737 [INFO]   Country=India: S1=60,342, S23=4,133,346
+2026-09-26 01:30:25,378 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-26 01:36:01,316 [INFO]   Building exact match dictionaries...
+2026-09-26 01:37:33,608 [INFO]   Transforming 60,342 S1 queries...
+2026-09-26 01:38:36,858 [INFO]   Querying in 61 batches...
+2026-09-26 03:16:36,975 [INFO]   Country=US: S1=89,658, S23=6,186,873
+2026-09-26 03:16:41,449 [INFO]   Training TF-IDF for 6,186,873 entities...
+2026-09-26 03:23:29,034 [INFO]   Building exact match dictionaries...
+2026-09-26 03:25:19,121 [INFO]   Transforming 89,658 S1 queries...
+2026-09-26 03:26:26,565 [INFO]   Querying in 90 batches...
+2026-09-26 04:44:32,862 [INFO]   Total S1 entities with candidates: 150,000
+2026-09-26 04:44:32,884 [INFO]   Total candidate pairs: 11,798,413 (avg 78.7 per S1)
+2026-09-26 04:44:36,395 [INFO]   [TRAIN] Candidate Recall: 0.817239 (423829/518611)
+2026-09-26 04:44:36,395 [INFO]   [TRAIN] Entity-level Perfect Recall: 0.6084 (91260/150000)
+2026-09-26 04:44:36,395 [INFO] 
+============================================================
+2026-09-26 04:44:36,395 [INFO] PHASE 3b: Blocking / Candidate Generation (Validation)
+2026-09-26 04:44:36,395 [INFO] ============================================================
+2026-09-26 04:44:59,694 [INFO]   Country=India: S1=12,045, S23=4,133,346
+2026-09-26 04:45:04,209 [INFO]   Training TF-IDF for 4,133,346 entities...
+2026-09-26 04:50:48,107 [INFO]   Building exact match dictionaries...
+2026-09-26 04:52:04,810 [INFO]   Transforming 12,045 S1 queries...
+2026-09-26 04:52:52,618 [INFO]   Querying in 13 batches...
+2026-09-26 05:08:58,885 [INFO]   Country=US: S1=17,955, S23=6,186,873
+2026-09-26 05:09:03,848 [INFO]   Training TF-IDF for 6,186,873 entities...
+2026-09-26 05:16:16,410 [INFO]   Building exact match dictionaries...
+2026-09-26 05:18:21,875 [INFO]   Transforming 17,955 S1 queries...
+2026-09-26 05:19:25,146 [INFO]   Querying in 18 batches...
+2026-09-26 05:36:01,014 [INFO]   Total S1 entities with candidates: 30,000
+2026-09-26 05:36:01,022 [INFO]   Total candidate pairs: 2,359,944 (avg 78.7 per S1)
+2026-09-26 05:36:02,050 [INFO]   [VAL] Candidate Recall: 0.816382 (84796/103868)
+2026-09-26 05:36:02,050 [INFO]   [VAL] Entity-level Perfect Recall: 0.6059 (18178/30000)
+2026-09-26 05:36:02,050 [INFO] 
+============================================================
+2026-09-26 05:36:02,050 [INFO] PHASE 4: Feature Engineering (Training)
+2026-09-26 05:36:02,050 [INFO] ============================================================
+2026-09-26 05:40:43,610 [INFO]   Computing features for 11,798,413 pairs...
+2026-09-26 06:13:54,603 [INFO] 
+PHASE 4b: Feature Engineering (Validation)
+2026-09-26 06:18:47,369 [INFO]   Computing features for 2,359,944 pairs...
+2026-09-26 06:25:26,171 [INFO] 
+============================================================
+2026-09-26 06:25:26,171 [INFO] PHASE 5: Labeling
+2026-09-26 06:25:26,172 [INFO] ============================================================
+2026-09-26 06:25:40,197 [INFO]   Labels: 423,829 positive, 11,374,584 negative (3.6% positive)
+2026-09-26 06:25:41,130 [INFO]   Labels: 84,796 positive, 2,275,148 negative (3.6% positive)
+2026-09-26 06:25:45,993 [INFO] 
+============================================================
+2026-09-26 06:25:45,994 [INFO] PHASE 6: Model Training
+2026-09-26 06:25:45,994 [INFO] ============================================================
+2026-09-26 06:25:49,432 [INFO]   Training XGBoost: 11,798,413 samples, 37 features
+2026-09-26 06:25:49,432 [INFO]   scale_pos_weight=10.00
+2026-09-26 06:31:07,773 [INFO]   Top 10 features:
+2026-09-26 06:31:07,779 [INFO]     addr_tok_set: 0.4319
+2026-09-26 06:31:07,779 [INFO]     addr2_miss: 0.1491
+2026-09-26 06:31:07,779 [INFO]     any_addr_miss: 0.1278
+2026-09-26 06:31:07,780 [INFO]     name_strong_addr_weak: 0.0511
+2026-09-26 06:31:07,780 [INFO]     addr_ngram3: 0.0360
+2026-09-26 06:31:07,780 [INFO]     both_strong: 0.0331
+2026-09-26 06:31:07,780 [INFO]     addr_num_jaccard: 0.0295
+2026-09-26 06:31:07,780 [INFO]     addr_num_overlap: 0.0283
+2026-09-26 06:31:07,780 [INFO]     name_ngram3: 0.0158
+2026-09-26 06:31:07,781 [INFO]     name_partial: 0.0151
+2026-09-26 06:31:07,781 [INFO] 
+============================================================
+2026-09-26 06:31:07,782 [INFO] PHASE 7: Threshold Optimization
+2026-09-26 06:31:07,782 [INFO] ============================================================
+2026-09-26 06:32:28,002 [INFO] 
+  === THRESHOLD OPTIMIZATION ===
+2026-09-26 06:32:28,002 [INFO]   Best threshold: 0.92
+2026-09-26 06:32:28,002 [INFO]   Best macro F0.5: 0.862768
+2026-09-26 06:32:28,002 [INFO]   Top thresholds:
+2026-09-26 06:32:28,002 [INFO]     t=0.92: F0.5=0.862768 P=0.9713 R=0.7382 TP=76674 FP=2262 FN=27194 Sing=0.9005
+2026-09-26 06:32:28,002 [INFO]     t=0.90: F0.5=0.862339 P=0.9652 R=0.7452 TP=77403 FP=2788 FN=26465 Sing=0.8822
+2026-09-26 06:32:28,002 [INFO]     t=0.94: F0.5=0.862299 P=0.9780 R=0.7286 TP=75676 FP=1705 FN=28192 Sing=0.9256
+2026-09-26 06:32:28,003 [INFO]     t=0.88: F0.5=0.860624 P=0.9587 R=0.7505 TP=77949 FP=3354 FN=25919 Sing=0.8638
+2026-09-26 06:32:28,003 [INFO]     t=0.86: F0.5=0.857989 P=0.9513 R=0.7559 TP=78516 FP=4021 FN=25352 Sing=0.8352
+2026-09-26 06:32:28,045 [INFO] 
+  Model saved to C:\Users\user\OneDrive\Desktop\Competition\AmzonML\project\models\xgb_model.pkl
+2026-09-26 06:32:28,046 [INFO] 
+  Training completed in 303.0 minutes
+2026-09-26 06:32:28,046 [INFO]   BEST VALIDATION F0.5: 0.862768
+2026-09-26 06:32:28,046 [INFO]   BEST THRESHOLD: 0.92
+2026-09-26 06:32:28,046 [INFO]   TARGET BENCHMARK: 0.980473
+2026-09-26 06:32:28,047 [INFO]   GAP: +0.117705
+2026-09-26 06:32:34,282 [INFO] ============================================================
+2026-09-26 06:32:34,283 [INFO] TEST INFERENCE: Loading Test Data
+2026-09-26 06:32:34,283 [INFO] ============================================================
+2026-09-26 06:32:34,284 [INFO] Loading test data...
+2026-09-26 06:33:34,377 [INFO]   S1: 1,732,544, S2: 4,887,273, S3: 5,082,316
+2026-09-26 06:33:34,378 [INFO]   Normalizing 1,732,544 rows...
+2026-09-26 06:35:17,087 [INFO]   Normalizing 4,887,273 rows...
+2026-09-26 06:40:17,970 [INFO]   Normalizing 5,082,316 rows...
+2026-09-26 06:45:24,704 [INFO]   Combined S2+S3: 9,969,589 entities
+2026-09-26 06:45:31,976 [INFO] 
+============================================================
+2026-09-26 06:45:31,977 [INFO] TEST INFERENCE: Blocking by Country
+2026-09-26 06:45:31,977 [INFO] ============================================================
+2026-09-26 06:45:32,118 [INFO] 
+--- Processing country: France ---
+2026-09-26 06:45:35,217 [INFO]   S1: 259,452, S23: 1,434,993
+2026-09-26 06:45:36,493 [INFO]   Training TF-IDF for 1,434,993 S23 entities...
+2026-09-26 06:47:39,043 [INFO]   Transforming 259,452 S1 queries...
+2026-09-26 06:48:33,787 [INFO]   Chunk 1/260: rows 0-1,000
+2026-09-26 12:25:44,115 [INFO]   Loaded model from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\project\models\xgb_model.pkl, threshold=0.92
+2026-09-26 12:25:44,118 [INFO] ============================================================
+2026-09-26 12:25:44,118 [INFO] TEST INFERENCE: Loading Test Data
+2026-09-26 12:25:44,119 [INFO] ============================================================
+2026-09-26 12:25:44,120 [INFO] Loading cached test normalized data...
+2026-09-26 12:25:50,388 [INFO] 
+============================================================
+2026-09-26 12:25:50,388 [INFO] TEST INFERENCE: Streaming Blocking & Prediction
+2026-09-26 12:25:50,389 [INFO] ============================================================
+2026-09-26 12:25:50,562 [INFO] 
+--- Processing country: France ---
+2026-09-26 12:25:52,289 [INFO]   S1: 259,452, S23: 1,434,993
+2026-09-26 12:25:53,754 [INFO]   Training TF-IDF for 1,434,993 S23 entities...
+2026-09-26 12:28:10,104 [INFO]   Transforming 259,452 S1 queries...
+2026-09-26 12:28:55,780 [INFO]   [France] Chunk 1/1298: rows 0-200
+2026-09-26 14:04:10,627 [INFO]   [France] Chunk 251/1298: rows 50,000-50,200
+2026-09-26 14:36:45,677 [INFO]   [France] Chunk 501/1298: rows 100,000-100,200
+2026-09-26 15:08:51,766 [INFO]   [France] Chunk 751/1298: rows 150,000-150,200
+2026-09-26 15:43:53,120 [INFO]   [France] Chunk 1001/1298: rows 200,000-200,200
+2026-09-26 16:26:39,830 [INFO]   [France] Chunk 1251/1298: rows 250,000-250,200
+2026-09-26 16:34:31,271 [INFO] 
+--- Processing country: India ---
+2026-09-26 16:35:13,690 [INFO]   S1: 809,986, S23: 4,717,565
+2026-09-26 16:35:24,928 [INFO]   Training TF-IDF for 4,717,565 S23 entities...
+2026-09-26 16:50:14,206 [INFO]   Transforming 809,986 S1 queries...
+2026-09-26 16:54:14,851 [INFO]   [India] Chunk 1/4050: rows 0-200
+2026-09-26 21:17:09,823 [INFO]   Loaded model from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\project\models\xgb_model.pkl, threshold=0.92
+2026-09-26 21:17:09,824 [INFO] ============================================================
+2026-09-26 21:17:09,824 [INFO] TEST INFERENCE: Loading Test Data
+2026-09-26 21:17:09,824 [INFO] ============================================================
+2026-09-26 21:17:09,825 [INFO] Loading cached test normalized data...
+2026-09-26 21:17:15,858 [INFO] 
+============================================================
+2026-09-26 21:17:15,858 [INFO] TEST INFERENCE: Streaming Blocking & Prediction
+2026-09-26 21:17:15,858 [INFO] ============================================================
+2026-09-26 21:17:16,425 [INFO]   Found existing progress: 273,298 entities already processed.
+2026-09-26 21:17:16,585 [INFO] 
+--- Processing country: France ---
+2026-09-26 21:17:22,870 [INFO]   Total S1 in France: 259,452, Remaining to process: 0, S23: 1,434,993
+2026-09-26 21:17:22,871 [INFO]   Country France already 100% completed. Skipping.
+2026-09-26 21:17:22,871 [INFO] 
+--- Processing country: India ---
+2026-09-26 21:17:33,619 [INFO]   Total S1 in India: 809,986, Remaining to process: 796,140, S23: 4,717,565
+2026-09-26 21:17:39,284 [INFO]   Training TF-IDF for 4,717,565 S23 entities...
+2026-09-26 21:27:42,414 [INFO]   Transforming 796,140 S1 queries...
+2026-09-26 21:30:38,473 [INFO]   [India] Chunk 1/3981: rows 0-200
+2026-09-27 00:20:43,129 [INFO]   Loaded model from C:\Users\user\OneDrive\Desktop\Competition\AmzonML\project\models\xgb_model.pkl, threshold=0.92
+2026-09-27 00:20:43,130 [INFO] ============================================================
+2026-09-27 00:20:43,130 [INFO] TEST INFERENCE: Loading Test Data
+2026-09-27 00:20:43,130 [INFO] ============================================================
+2026-09-27 00:20:43,131 [INFO] Loading cached test normalized data...
+2026-09-27 00:20:48,656 [INFO] 
+============================================================
+2026-09-27 00:20:48,657 [INFO] TEST INFERENCE: Streaming Blocking & Prediction
+2026-09-27 00:20:48,657 [INFO] ============================================================
+2026-09-27 00:20:49,123 [INFO]   Found existing progress: 305,098 entities already processed.
+2026-09-27 00:20:49,328 [INFO] 
+--- Processing country: France ---
+2026-09-27 00:20:54,975 [INFO]   Total S1 in France: 259,452, Remaining to process: 0, S23: 1,434,993
+2026-09-27 00:20:54,976 [INFO]   Country France already 100% completed. Skipping.
+2026-09-27 00:20:54,976 [INFO] 
+--- Processing country: India ---
+2026-09-27 00:21:03,376 [INFO]   Total S1 in India: 809,986, Remaining to process: 764,340, S23: 4,717,565
+2026-09-27 00:21:07,780 [INFO]   Training TF-IDF for 4,717,565 S23 entities...
+2026-09-27 00:29:43,454 [INFO]   Transforming 764,340 S1 queries...
+2026-09-27 00:32:01,666 [INFO]   [India] Chunk 1/3822: rows 0-200 (0.0%)
+2026-09-27 00:49:49,656 [INFO]   [India] Chunk 51/3822: rows 10,000-10,200 (1.3%)
+2026-09-27 01:07:28,466 [INFO]   [India] Chunk 101/3822: rows 20,000-20,200 (2.6%)
+2026-09-27 01:25:09,276 [INFO]   [India] Chunk 151/3822: rows 30,000-30,200 (3.9%)
+2026-09-27 01:42:56,726 [INFO]   [India] Chunk 201/3822: rows 40,000-40,200 (5.2%)
+2026-09-27 02:00:50,620 [INFO]   [India] Chunk 251/3822: rows 50,000-50,200 (6.5%)
+2026-09-27 02:18:43,255 [INFO]   [India] Chunk 301/3822: rows 60,000-60,200 (7.8%)
+2026-09-27 11:52:00,227 [INFO]   [India] Chunk 351/3822: rows 70,000-70,200 (9.2%)
